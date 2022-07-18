@@ -1,0 +1,35 @@
+* {
+  text-decoration: none; }
+
+.header {
+  height: 200px;
+  background-color: #6491e6; }
+
+.footer {
+  height: 200px;
+  background-color: #6491e6; }
+
+a {
+  color: #000;
+  border: 1px solid #ddd;
+  display: inline-block;
+  padding: 8px;
+  margin-bottom: 8px; }
+  a:hover {
+    background: #eee; }
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: #fff67c;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s; }
+  .box:hover {
+    width: 200px;
+    background-color: #ee6767; }
+
+/*# sourceMappingURL=all.css.map */
